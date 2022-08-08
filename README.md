@@ -17,5 +17,9 @@ Equilibrium is achieved when no bot leads to a better reward. Once agent self-or
 
 
 ## Plan of activities 
-
+  - Review the theory behind topographic maps, DatabionicSwarm and Pswarm.
+  - Run the code given by the Github repository of the Deep Bionic Institute.
+  - Decide which dataset to study. For this case we have the "Hepta" dataset, which is based on ant classification, and the "Lsun 3D" dataset, which is based on leukemia data. 
+  - Perform complementary graphs to find the outliers of the datasets.
+  - Manually improving the clustering using the topograpahic map.
 
