@@ -16,6 +16,15 @@ Algorithms that implement populations of agents that interact with each other an
 Equilibrium is achieved when no bot leads to a better reward. Once agent self-organization is complete, the output of the Pswarm algorithm is a scatter plot of projected points. The second module is a parameter-free high-dimensional data visualization technique. The third module provides a clustering method that can be verified by visualization. The purpose of this scatter plot is a visualization of distance and density based structures, which is often used in cluster analysis. In addition, the bots conform to natural features such as homogeneity, locality and collision avoidance. In theory, data points that are in the same cluster should have similar properties and/or characteristics, while data points in different clusters should have very different properties and/or characteristics.
 
 
+In the Code folder you will find the R codes implemented for this report.
+- Clean_Hepta.r
+- Clean_Leukemia.r
+- Clean_Lsun3D.r
+- Clean_Tetra.r
+- Quantile_clean.r
+
+In the data folder you can find the datasets that are used in addition to some others that were already in the FCPS library.
+
 ## Plan of activities 
   - Review the theory behind topographic maps, DatabionicSwarm and Pswarm.
   - Run the code given by the Github repository of the Deep Bionic Institute.
